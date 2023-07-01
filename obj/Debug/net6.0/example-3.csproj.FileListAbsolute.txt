@@ -1,0 +1,15 @@
+/Users/darinafesenko/Desktop/example-3/bin/Debug/net6.0/example-3
+/Users/darinafesenko/Desktop/example-3/bin/Debug/net6.0/example-3.deps.json
+/Users/darinafesenko/Desktop/example-3/bin/Debug/net6.0/example-3.runtimeconfig.json
+/Users/darinafesenko/Desktop/example-3/bin/Debug/net6.0/example-3.dll
+/Users/darinafesenko/Desktop/example-3/bin/Debug/net6.0/example-3.pdb
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.csproj.AssemblyReference.cache
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.AssemblyInfoInputs.cache
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.AssemblyInfo.cs
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.dll
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/refint/example-3.dll
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.pdb
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/example-3.genruntimeconfig.cache
+/Users/darinafesenko/Desktop/example-3/obj/Debug/net6.0/ref/example-3.dll
